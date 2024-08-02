@@ -1,0 +1,12 @@
+*{
+    color: rgb(225, 20, 225);
+    font-size: 30px;
+    
+}
+
+img{
+    width: 500px;
+}
+body{
+    background:url(../images/backgrounds/background-blue-stars.png);
+}
